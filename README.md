@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Abhinav Anand</h1>
+<h1 align="center">Hi 👋  I'm Sandhya Kumari</h1>
 
 
 ## 👨‍💻 About Me
@@ -12,7 +12,7 @@
  </p>
 
 
-Hi, I'm **Abhinav Anand** – a passionate and creative **Full Stack Web Developer** from **Birpur,Supaul ,Bihar (India)** 🇮🇳 
+Hi, I'm **Sandhya Kumari** – a passionate and creative **Full Stack Web Developer** from **Delhi (India)** 🇮🇳 
 I specialize in building modern, scalable, and user-friendly web applications using the latest technologies.
 
 💼 I bring together design and development to craft engaging, animated, and interactive user experiences.  
