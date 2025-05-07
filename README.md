@@ -68,7 +68,7 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="60" width="90" /></a>
    <a href="https://www.linkedin.com/in/sandhya-kumari-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitudawar" height="60" width="90" /></a>
  <a href="https://www.facebook.com/profile.php?id=100077084272242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendradawar" height="60" width="90" /></a>
- <a href="https://www.instagram.com/festivalgyaan_2025?igsh=MWxjMXN2anpoenhuZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="60" width="90" /></a>
+ <a href="https://www.instagram.com/radhikaray123?utm_source=qr&igsh=MnBxaWRmaHgwb2U3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="60" width="90" /></a>
  <a href="https://github.com/sandhyakumariray" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jitudawar" height="60" width="90" /></a>
 
