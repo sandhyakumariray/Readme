@@ -75,5 +75,5 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 
 
 ---
-🔥 Building powerful web apps & AI tools that make life easier — from Supaul to the world! 🌍
+🔥 Building powerful web apps & AI tools that make life easier — from Khagaria, Bihar to the world! 🌍
 
