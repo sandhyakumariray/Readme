@@ -46,8 +46,7 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| 💼 **Job Portal** | Full-featured job search platform with login, apply, and admin dashboard features | [View Project](https://dawarjob.netlify.app/) |
-| 🛒 **Bloging Website** | Fully functional web page use for personal commentary or bussiness content ,checkout & responsive design | [View Project](https://festivalgyaan.in/) |
+| 🛒 **Bloging Website** | Fully functional web page use for personal commentary or bussiness content ,checkout & responsive design | [View Project](https://astrorashifal.in/) |
 
 
 <h3 align="center">
