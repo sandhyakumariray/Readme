@@ -68,13 +68,10 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="60" width="90" /></a>
   <a href="https://www.linkedin.com/in/abhinav-anand-339b32360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitudawar" height="60" width="90" /></a>
  <a href="https://[www.facebook.com/share/1Br14hoJug](https://www.facebook.com/profile.php?id=100077084272242)(https://www.facebook.com/profile.php?id=100077084272242))/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendradawar" height="60" width="90" /></a>
- <a href="https://www.instagram.com/festivalgyaan_2025?igsh=MWxjMXN2anpoenhuZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="60" width="90" /></a>
- <a href="https://github.com/abhinavanand1999" target="blank">
+ <a href="https://www.instagram.com/astrorashifal_2025?igsh=MWxjMXN2anpoenhuZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="60" width="90" /></a>
+ <a href="https://github.com/sandhyakumariray" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jitudawar" height="60" width="90" /></a>
-<a href="https://anandabhinav.netlify.app/" target="blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="60" width="90" />
-</a>
-</p>
+
 
 
 ---
