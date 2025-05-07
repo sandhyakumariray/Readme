@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=99119F&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I'm+Abhinav+Anand......🏃🏼‍♂️‍➡️.....+🧑‍💼!;I'm+Full-stack+Developer.......🧑‍💻!;I'm+Software+Developer.........🧑‍💻!;I'm+App+Developer........🧑🏼‍💻!;I'm+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=99119F&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I'm+Sandhya+Kumari......🏃🏼‍♂️‍➡️.....+🧑‍💼!;I'm+Full-stack+Developer.......🧑‍💻!;I'm+Software+Developer.........🧑‍💻!;I'm+App+Developer........🧑🏼‍💻!;I'm+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
 </h3>
 
 
